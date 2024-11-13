@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_compress_png.png"
+  avatar           : "profile.png"
   name             : "Tingyu Chen 陈廷誉"
   pronouns         : # example: "he/him"  
   bio              : "日拱一卒，工不唐捐(I run slowly, but I keep running)"
   location         : "Milan Italy"
   employer         : "University Politecnico di Milano(Polimi)"
   uri              : https://ccttyy666.github.io/tingyu.github.io/
-  email            : "1353689060@qq.com/ctytingyu2001@outlook.com" 
+  email            : "1353689060@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
